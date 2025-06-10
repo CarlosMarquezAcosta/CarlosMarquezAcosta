@@ -8,8 +8,8 @@ Economics and Code, to understand the world researching various topics regarding
 
 * 🌍  I'm based in Miami.
 * 🖥️  See my portfolio at [My Website](http://carlosmarquezacosta.github.io/CarlosMarquez.github.io/)
-* ✉️  You can contact me at [cmarq033@fiu.edu](mailto:cmarq033@fiu.edu)
-* 🧠  I'm learning Numpy, Tensorflow , R.
+* ✉️  You can contact me at [Email](mailto:carlos.marquezacosta01@gmail.com)
+* 🧠  I'm learning data science and economics.
 * 🤝  I'm open to collaborating on economics problems across the world.
 * ⚡  I am Venezuelan.
 
