@@ -1,17 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carlos Marquez
-======================================================================================================================================
+# Hey, I'm Carlos
 
-Economics Masters Student
--------------------------
+Economics PhD student @ FSU | Applied Micro & Causal Inference | Recovering Stata user, now a Python believer 🐍
 
-Economics and Code, to understand the world researching various topics regarding Economic Development and Industrial Organization.
+## 🔭 What I'm working on
+- Building causal inference chops one identification strategy at a time
+- Learning JAX because apparently I enjoy speed
 
-* 🌍  I'm based in Miami.
+I have two cats who are deeply unimpressed by causal inference.
+
 * 🖥️  See my portfolio at [My Website](http://carlosmarquezacosta.github.io/CarlosMarquez.github.io/)
 * ✉️  You can contact me at [Email](mailto:carlos.marquezacosta01@gmail.com)
-* 🧠  I'm learning data science and economics.
-* 🤝  I'm open to collaborating on economics problems across the world.
-* ⚡  I am Venezuelan.
+
 
 ### Skills
 
